@@ -1,0 +1,11 @@
+.c-footer {
+  height: 70px;
+  color: #fff;
+  background-color: #454d6e;
+}
+.c-footer .container {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

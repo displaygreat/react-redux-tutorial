@@ -1,0 +1,14 @@
+.c-search-input {
+    width: 50%;
+    margin: 20px 0;
+  }
+.c-search-input .svg-inline--fa {
+  height: 2em;
+  color: #6c757d;
+}
+
+@media (max-width: 992px) {
+  .c-search-input {
+    width: 100%;
+  }
+}

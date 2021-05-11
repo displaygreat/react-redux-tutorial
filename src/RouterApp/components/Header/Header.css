@@ -1,0 +1,21 @@
+.c-header {
+  height: 100px;
+  color: #fff;
+  background-color: #989cad;
+}
+.c-header .container {
+  height: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.c-header ul {
+  display: flex;
+  list-style-type: none;
+}
+.c-header ul li {
+  margin-left: 20px;
+}
+.c-header ul li a {
+  color: #454d6e;
+}

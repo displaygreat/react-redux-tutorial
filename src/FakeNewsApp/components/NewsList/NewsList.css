@@ -1,0 +1,17 @@
+.c-news-list .title {
+  display: block;
+  margin: 10px 0;
+  width: 100%;
+}
+.c-news-list .description:not(:last-child) {
+  margin-right: 20px;
+  padding-right: 20px;
+  border-right: 2px solid #0dcaf0;
+}
+@media (max-width: 576px) {
+  .c-news-list .description:not(:last-child) {
+    display: block;
+    border: none;
+    margin-bottom: 10px;
+  }
+} ;
